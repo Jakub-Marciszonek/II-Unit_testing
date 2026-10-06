@@ -37,7 +37,11 @@ npm test
 The test suite covers:
 
 *Addition
+
 *Subtraction
+
 *Multiplication
+
 *Division
+
 *Division by zero
